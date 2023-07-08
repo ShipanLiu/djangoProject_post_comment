@@ -1,0 +1,20 @@
+
+###ignore .idea in any  any subdirectory recursively. ###
+**/.idea/
+**/.vscode/
+
+###not exposure my mysql connection data in Github###
+**/settings.py
+
+**/__pycache__/
+
+**/__pycache__
+
+**/migrations/
+
+**/*.pyc
+
+**/.venv/
+
+**/.git/
+
